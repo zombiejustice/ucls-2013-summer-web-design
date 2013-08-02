@@ -1,0 +1,64 @@
+body {
+
+	border: 5px double #660099;
+
+}
+
+#newspaper {
+
+	border: 3px solid #000099;
+	width: 800px;
+	margin: 0;
+	padding: 0;
+	margin: auto;
+
+}
+
+#header {
+
+	border: 3px dashed #009900;
+	text-align: center;
+
+}
+
+#leftcolumn {
+
+	border: 3px dashed #009900;
+	width: 320px;
+	float: left;
+
+}
+
+#rightcolumn {
+
+	border: 3px dashed #009900;
+	width: 320px;
+	float: right;
+
+}
+
+#footer {
+
+	border: 3px dashed #009900;
+	clear: both;
+	text-align: center;
+
+}
+
+h1 {
+
+	border: 3px dotted #99cc00;
+
+}
+
+h2 {
+
+	border: 3px dotted #99cc00;
+
+}
+
+p {
+
+	border: 3px dotted #99cc00;
+
+}

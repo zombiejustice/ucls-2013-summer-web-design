@@ -1,0 +1,173 @@
+Web Design (based on Session 2 2011 curriculum)
+
+Week 1:
+
+Monday:
+    set up:
+        give all students accounts
+        set up webdesign login on all computers
+        install a decent text editor on all computers
+        enable right-clicking on all computers
+    part one:
+        nameplates, class rules, internet safety
+        text editor and server
+        assignment 0: homepage
+            start out by writing a little about why you
+            wanted to take web design, and your favorite
+            movie, musician, or author
+    part two:
+        html, body, paragraphs, headlines
+
+Tuesday:
+    set-up:
+        put link to hex color chooser on homepage
+    part one:
+        review class rules, server, html
+        head, title, link
+        background-color, color, font-family
+        hex color chooser, digital color meter
+    part two:
+        box model, padding, borders, margin, width
+        element styling
+
+Wednesday:
+    part one:
+        review server, head/body distinction, title
+        review element styling, box model
+        images, photobooth, height, display: block;
+        seriously, ten minutes for photobooth, plus ten for styling
+    part two:
+        divs, ids
+        assignment 1: animal page
+            must cite image and text sources
+            three divs with ids, styled differently
+            each div has headline, image,
+            at least one paragraph
+
+Thursday:
+    part one:
+        review divs, ids, image centering, font-family, padding
+        font-weight, font-style
+        work on animal page
+    part two:
+        anchors, hyperlink styling
+        remind to cite images and info
+
+Friday:
+    set-up:
+        have cut-down sohn interview, example interviews
+    part one:
+        review hyperlinks, stylesheets
+        classes, font-size
+        assignment 2: interview project
+            must have questions and answers as two different
+            classes with visually distinct styling
+    part two:
+        text-align for headlines
+        text-decoration for links
+        remind to link from homepage
+
+Week 2: (by this time in 2012, we were a day behind, hence repeats)
+		(also in 2013. Systemic problem?)
+
+*** Current ***
+
+Tuesday
+	part one:
+		review ids
+		internal links, lists
+		assignment: fairy tales
+			Choose a fairy tale
+			Add link menu / list
+	part two:
+		digital color meter, big huge color pallette generator
+		assignment update:
+			add pictures
+			style with colors from the picture
+
+Wednesday
+	part one:
+		review images, hyperlinks
+		floating (with margins), image sources
+		assignment update:
+			float images
+			a new list with citations for images
+	part two:
+		show and tell / public shaming
+		
+*** End Current ***
+
+*** Defunct ***
+Tuesday:
+	part one:
+		lists, list items, styling lists
+		assignment 3: recipe project
+			pick a recipe, find a picture for it
+			put the ingredients in unordered list
+			and directions in ordered list
+			style the page attractively
+			cite the origin of recipe and image!
+	part two:
+		big huge labs color palette generator
+		review digital color meter
+		assignment 3 update:
+			use colors from the picture in the page
+
+Wednesday:
+	part one:
+		internal links
+		assignment 4: fairytale project
+			choose one of the fairy tales
+			add an internal link menu
+			style attractively and add pictures
+			cite the origin of the images!
+	part two:
+		review link styling
+
+
+
+Thursday:
+	part one:
+		floating images
+		assignment 4 update:
+			float all images!
+	part two:
+		clean up for show and tell
+		
+Friday:
+	part one:
+		show and tell
+	part two:
+		fixing websites from critique
+		background images
+		emphasize div background-color
+
+*** End Defunct ***
+		
+Week 3:
+
+Monday:
+	set up:
+		have pre-built div they can copy/paste into their sites
+	part one:
+		external stylesheets on multiple pages
+		multiple external stylesheets on one page
+		descendent selectors
+		assignment: navigation bar
+			copy/past list o' links into pages
+			make all the links work
+			style using descendent selectors, single stylesheet
+
+	part two:
+		review link styling
+
+		
+Tuesday:
+	set up:
+		have articles for the paper, pre-built column page
+	part one:
+		columns using float (examine html5 sectionals for next year)
+		assignment 5: newspaper website
+			Make a professional-looking website for the Summer Lab newspaper!
+		examples: Isabel from last year
+	part two: work time
